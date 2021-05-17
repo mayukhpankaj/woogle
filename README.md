@@ -105,6 +105,10 @@ https://user-images.githubusercontent.com/40158577/118137620-083cf600-b423-11eb-
 
 ![woogle homepage](https://i.imgur.com/jxThCQ1.png "woogle home") 
 ![woogle results](https://i.imgur.com/xkI3g6W.png "woogle results") 
+![woogle results](https://i.imgur.com/zoRsn6d.png "woogle  internshala results") 
+![woogle results](https://i.imgur.com/hbjGKyj.png "woogle  timesjob results") 
+
+
 ![woogle mobile](https://i.imgur.com/fHS3oip.png "woogle mobile")
 
 
